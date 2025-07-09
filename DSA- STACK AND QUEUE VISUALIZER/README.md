@@ -65,10 +65,9 @@ Queue: [78, 34]
 
 ---
 ⭐ Like this project?
-Give it a ⭐ on GitHub
 
-Try adding more algorithms to the Stack and Queue
-
-Connect with me on LinkedIn to share your DSA journey!
+*)Give it a ⭐ on GitHub
+*)Try adding more algorithms to the Stack and Queue
+*)Connect with me on LinkedIn to share your DSA journey!
 
 
