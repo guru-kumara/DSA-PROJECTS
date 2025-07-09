@@ -31,7 +31,8 @@ It provides real-time visual updates for `push`, `pop`, `enqueue`, and `dequeue`
 
 ## 📁 File Structure
 
-```DSA-STACK-QUEUE-VISUALIZER/
+```
+DSA-STACK-QUEUE-VISUALIZER/
 ├── StackQueueVisualizer.java
 └── README.md
 
