@@ -24,7 +24,7 @@ Each value in the array is represented as a **vertical bar**, where:
 
 ## 📁 File Structure
 
-DSA-SORTING VISUALIZER/
+```DSA-SORTING VISUALIZER/
 ├── SortingVisualizer.java
 └── README.md
 
@@ -32,7 +32,7 @@ DSA-SORTING VISUALIZER/
 
 ## 🧪 Sample Array
 
----java:
+```java:
 int[] array = {50, 30, 70, 10, 90, 20, 60, 80, 40};
 
 ---
