@@ -25,7 +25,8 @@ This is a simple **command-line number guessing game** built using Java. The gam
 
 ## 📁 File Structure
 
-```DSA-GAME-NUMBER-GUESS/
+```
+DSA-GAME-NUMBER-GUESS/
 ├── NumberGuessingGame.java
 └── README.md
 
