@@ -41,7 +41,7 @@ int[] array = {50, 30, 70, 10, 90, 20, 60, 80, 40};
 
 ### 🧑‍💻 Using Terminal or CMD
 
----bash:
+```bash:
 javac SortingVisualizer.java
 java SortingVisualizer
 
