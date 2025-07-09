@@ -49,14 +49,14 @@ DSA-TREE TRAVERSAL/
 
 ### 🔧 Using Terminal (Command Line)
 
----bash
+```bash
 
 javac TreeTraversal.java
 java TreeTraversal
 
 ---
 
-Tree Structure Used in Main Method:
+``` Tree Structure Used in Main Method:
         1
        / \
       2   3
