@@ -78,7 +78,7 @@ DSA-PROJECTS/
 **Kumaraguru**  
 🎓 3rd Year CSE | Sri Sairam Institute of Technology  
 🔗 [GitHub](https://github.com/guru-kumara)  
-🔗 [LinkedIn](www.linkedin.com/in/kumara-guru1)
+🔗 [www.linkedin.com/in/kumara-guru1](www.linkedin.com/in/kumara-guru1)
 
 ---
 
