@@ -65,9 +65,19 @@ Distance from 0 to 3 is 4
 javac Graph.java
 java Graph
 
-⭐ Like this project?
-Give it a ⭐ on GitHub
+```
+## 👨‍💻 Author
 
-Try adding more algorithms to the graph
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
 
-Connect with me on LinkedIn to share your DSA journey!
+---
+
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
+
