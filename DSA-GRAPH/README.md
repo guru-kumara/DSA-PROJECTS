@@ -25,7 +25,8 @@ This project implements a **weighted undirected graph** and uses **Dijkstra's Al
 
 ## 📁 File Structure
 
-```DSA-GRAPH-DIJKSTRA/
+```
+DSA-GRAPH-DIJKSTRA/
 ├── Graph.java
 └── README.md
 
