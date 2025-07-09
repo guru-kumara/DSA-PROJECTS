@@ -28,7 +28,8 @@ Postorder: 4 5 2 3 1
 
 ## 📁 File Structure
 
-``` DSA-TREE TRAVERSAL/
+```
+DSA-TREE TRAVERSAL/
 ├── TreeNode.class
 ├── TreeTraversal.class
 ├── TreeTraversal.java
