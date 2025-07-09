@@ -65,10 +65,21 @@ Queue: [78, 34]
 
 ---
 
-⭐ Like this project?
+```
+## 👨‍💻 Author
 
-*)Give it a ⭐ on GitHub
-*)Try adding more algorithms to the Stack and Queue
-*)Connect with me on LinkedIn to share your DSA journey!
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
+
+---
+
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
+
 
 
