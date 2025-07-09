@@ -24,7 +24,8 @@ Each value in the array is represented as a **vertical bar**, where:
 
 ## 📁 File Structure
 
-```DSA-SORTING VISUALIZER/
+```
+DSA-SORTING VISUALIZER/
 ├── SortingVisualizer.java
 └── README.md
 
