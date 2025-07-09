@@ -53,10 +53,19 @@ Enter your guess: 37
 Congratulations! You guessed it in 3 attempts.
 
 ---
+```
+## 👨‍💻 Author
 
-⭐ Like this project?
-Give it a ⭐ on GitHub
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
 
-Try adding more algorithms Or Concepts.
+---
 
-Connect with me on LinkedIn to share your DSA journey!
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
+
