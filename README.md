@@ -62,7 +62,7 @@ DSA-PROJECTS/
 └── README.md
 
 ---
-
+```
 ## 🔮 Future Projects (Coming Soon)
 
 - 📐 Binary Search Tree (Insert, Delete, Traverse)
@@ -72,6 +72,7 @@ DSA-PROJECTS/
 - 🕸️ Graph Cycle Detection
 
 ---
+```
 ```
 ## 👨‍💻 Author
 
